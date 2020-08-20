@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App]
+This is a TODO project to add and save the Lists using Create React App.
 ## Available Scripts
 
 In the project directory, you can run:
